@@ -1,6 +1,3 @@
-Sure, here’s a sample `README.md` for your front-end web project “Damovie”:
-
-```markdown
 # Damovie
 
 Damovie is a streaming platform website designed for browsing and watching movies, series, and anime. This project utilizes HTML, CSS, JavaScript, and Bootstrap to deliver a responsive and engaging user interface.
